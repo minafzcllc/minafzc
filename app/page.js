@@ -109,7 +109,7 @@ export default function HomePage() {
 
             {/* Surgical & medical on request */}
             <article className="product">
-              <img className="product-img" src={'/images/surgical-medical.jpg'} alt={"surgical-medical"} />
+              <img className="product-img" src={'/images/custom.jpg'} alt={"custom-medical"} />
 
               <div
                 className="product-body"
