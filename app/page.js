@@ -109,12 +109,11 @@ export default function HomePage() {
 
             {/* Surgical & medical on request */}
             <article className="product">
-              <img className="product-img" src={'/images/custom.jpg'} alt={"custom-medical"} />
-
-              <div
-                className="product-body"
-                style={{ justifyContent: 'center', textAlign: 'left', minHeight: '360px' }}
-              >
+              <img
+                src="/images/custom_two.jpg"
+                alt="Custom specification dental instruments made to order"
+              />
+              <div className="product-body">
                 <span className="product-code">Available on Request</span>
                 <h3>Surgical &amp; Medical Instruments</h3>
                 <p className="slogan">Full range supplied to order.</p>
