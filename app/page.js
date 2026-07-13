@@ -109,6 +109,8 @@ export default function HomePage() {
 
             {/* Surgical & medical on request */}
             <article className="product">
+              <img className="product-img" src={'/images/surgical-medical.jpg'} alt={"surgical-medical"} />
+
               <div
                 className="product-body"
                 style={{ justifyContent: 'center', textAlign: 'left', minHeight: '360px' }}
