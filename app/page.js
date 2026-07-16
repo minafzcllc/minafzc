@@ -31,7 +31,7 @@ export default function HomePage() {
     <>
       {/* HERO */}
       <section className="hero">
-        <div className="container hero-inner">
+        <div className="container hero-inner px-3">
           <div>
             <span className="hero-badge">★ Premium Quality · Ajman, UAE</span>
             <h1>
