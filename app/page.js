@@ -31,8 +31,8 @@ export default function HomePage() {
     <>
       {/* HERO */}
       <section className="hero">
-        <div className="container hero-inner px-3">
-          <div>
+        <div className="container hero-inner">
+          <div style={{ paddingLeft: "15px" }}>
             <span className="hero-badge">★ Premium Quality · Ajman, UAE</span>
             <h1>
               Precision in Every <em>Instrument</em>, Perfection in Every <em>Procedure</em>.
